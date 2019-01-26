@@ -17,5 +17,4 @@ W planie:
 
 Wygląd strony głównej:
 
-
-
+![](preview/Task%20Planner%20Home.jpg)
